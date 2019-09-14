@@ -383,15 +383,15 @@
 											<div class="panel-heading" role="tab" id="headingSix">
 												<h4 class="panel-title">
 													<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"
-														aria-expanded="false" aria-controls="collapseSix">Web Development (December, 2018 – April, 2018)
+														aria-expanded="false" aria-controls="collapseSix">IELTS 
 													</a>
 												</h4>
 											</div>
 											<div id="collapseSix" class="panel-collapse collapse" role="tabpanel"
 												aria-labelledby="headingSix">
 												<div class="panel-body">
-													<h4>Creative IT</h4>
-													<p>Completed my training for the whole course where it included a CRUD functionality using core PHP and an e-commerce site using Laravel</p>
+													<h4>Wings International </h4>
+													<p>Score 6.5.</p>
 												</div>
 											</div>
 										</div>
@@ -600,22 +600,24 @@
 									<div class="arlo_tm_portfolio_titles"></div>
 									<ul class="arlo_tm_portfolio_filter">
 										<li><a href="#" class="current" data-filter="*">All</a></li>
-										<li><a href="#" data-filter=".design">Design</a></li>
-										<li><a href="#" data-filter=".photography">Photography</a></li>
-										<li><a href="#" data-filter=".development">Development</a></li>
+										<li><a href="#" data-filter=".laravel">Laravel</a></li>
+										<li><a href="#" data-filter=".vue">Vue</a></li>
 									</ul>
 									<ul class="arlo_tm_portfolio_list gallery_zoom">
-										<li class="design">
+										<li class="vue">
 											<div class="animate-box" data-animate-effect="fadeInLeft">
 												<div class="project" style="background-image: url({{asset('jackson/images/img-1.jpg')}});">
 													<div class="desc">
 														<div class="con">
-															<h3><a href="work.html">Work 01</a></h3>
-															<span>Website</span>
+															<h3><a href="https://moviethings.herokuapp.com/">MovieThings</a></h3>
+															<span>Vue, Laravel, TMDB API, Axios, Vue-Router </span>
+															<div class="text">
+																	<p>A Web Application for watching movie trailers and to get movie information. This was done using Vue for frontend and Laravel for convenience.</p>
+															</div>
 															<p class="icon">
-																<span><a href="#"><i class="icon-share3"></i></a></span>
-																<span><a href="#"><i class="icon-eye"></i> 100</a></span>
-																<span><a href="#"><i class="icon-heart"></i> 49</a></span>
+																<span><a href="https://github.com/rabbilable/movie-stuffs"><i class="icon-social-github"></i>Source</a></span>
+																<span><a href="https://moviethings.herokuapp.com/"><i class="icon-link-outline"></i>Website</a></span>
+																{{-- <span><a href="#"><i class="icon-heart"></i> 49</a></span> --}}
 															</p>
 														</div>
 													</div>
