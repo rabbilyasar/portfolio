@@ -622,16 +622,16 @@
 												<div class="project" style="background-image: url({{asset('jackson/images/img-1.jpg')}});">
 													<div class="desc">
 														<div class="con">
-															<h3><a href="https://moviethings.herokuapp.com/">MovieThings</a></h3>
+															<h3><a href="https://moviethings.herokuapp.com/" target="blank">MovieThings</a></h3>
 															<span>Vue, Laravel, TMDB API, Axios, Vue-Router </span>
 															<div class="text">
 																<p>A Web Application for watching movie trailers and to get movie information. This was
 																	done using Vue for frontend and Laravel for convenience.</p>
 															</div>
 															<p class="icon">
-																<span><a href="https://github.com/rabbilable/movie-stuffs"><i
+																<span><a href="https://github.com/rabbilable/movie-stuffs" target="blank"><i
 																			class="icon-social-github"></i>Source</a></span>
-																<span><a href="https://moviethings.herokuapp.com/"><i
+																<span><a href="https://moviethings.herokuapp.com/" target="blank"><i
 																			class="icon-link-outline"></i>Website</a></span>
 																{{-- <span><a href="#"><i class="icon-heart"></i> 49</a></span> --}}
 															</p>
