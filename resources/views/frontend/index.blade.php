@@ -12,11 +12,11 @@
 	</div>
 
 	<!-- PRELOADER -->
-	{{-- <div class="arlo_tm_preloader">
+	<div class="arlo_tm_preloader">
 		<div class="spinner_wrap">
 			<div class="spinner"></div>
 		</div>
-	</div> --}}
+	</div>
 	<!-- /PRELOADER -->
 
 	<!-- MOBILE MENU -->
