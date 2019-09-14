@@ -420,6 +420,15 @@
 									<div class="progress_bar_wrap_total">
 										<div class="arlo_tm_progress_wrap" data-size="small" data-round="c" data-strip="off">
 											<div class="arlo_tm_progress" data-value="90" data-color="#000">
+												<span><span class="label">PHP - <span class="experience"> 1 years of
+															experience</span></span><span class="number">90%</span></span>
+												<div class="arlo_tm_bar_bg">
+													<div class="arlo_tm_bar_wrap">
+														<div class="arlo_tm_bar"></div>
+													</div>
+												</div>
+											</div>
+											<div class="arlo_tm_progress" data-value="90" data-color="#000">
 												<span><span class="label">Laravel - <span class="experience">1 years of
 															experience</span></span><span class="number">90%</span></span>
 												<div class="arlo_tm_bar_bg">
