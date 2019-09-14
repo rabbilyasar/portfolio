@@ -182,216 +182,228 @@
 				<!-- /ABOUT -->
 
 				{{-- EXPERIENCE --}}
-				<section class="colorlib-experience arlo_tm_section" data-section="experience" id="experience">
-					<div class="colorlib-narrow-content">
-						<div class="row">
-							<div class="arlo_tm_title_holder">
-								<h3>Experience</h3>
-								<span>Meet our amazing services</span>
+				<div class="container">
+					<section class="colorlib-experience arlo_tm_section" data-section="experience" id="experience">
+						<div class="colorlib-narrow-content">
+							<div class="row">
+								<div class="arlo_tm_title_holder">
+									<h3>Experience</h3>
+									<span>Meet our amazing services</span>
+								</div>
 							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-12">
-								<div class="timeline-centered">
-									<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-										<div class="timeline-entry-inner">
+							<div class="row">
+								<div class="col-md-12">
+									<div class="timeline-centered">
+										<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+											<div class="timeline-entry-inner">
 
-											<div class="timeline-icon color-1">
-												<i class="icon-pen2"></i>
-											</div>
+												<div class="timeline-icon color-1">
+													<i class="icon-pen2"></i>
+												</div>
 
-											<div class="timeline-label">
-												<h2><a href="#">Software Engineer Intern</a> <span>Apr, 2019-July, 2019</span></h2>
-												<h2>Creative IT</h2>
-												<h3>Key Responsibilities</h3>
-												<p>
-													<ul>
-														<li>Make Software as per the company requirements.</li>
-														<li> Co-operate with team members to finish projects assigned by the company. </li>
-														<li> Assist students to help them understand problems.</li>
-														<li> Finding innovative ways to perform day to day problem solving. </li>
-														<li> Give briefing to clients on the software and how it works.</li>
-													</ul>
-												</p>
+												<div class="timeline-label">
+													<h2><a href="#">Software Engineer Intern</a> <span>Apr, 2019-July, 2019</span></h2>
+													<h2>Creative IT</h2>
+													<h3>Key Responsibilities</h3>
+													<p>
+														<ul>
+															<li>Make Software as per the company requirements.</li>
+															<li> Co-operate with team members to finish projects assigned by the company. </li>
+															<li> Assist students to help them understand problems.</li>
+															<li> Finding innovative ways to perform day to day problem solving. </li>
+															<li> Give briefing to clients on the software and how it works.</li>
+														</ul>
+													</p>
+												</div>
 											</div>
-										</div>
-									</article>
+										</article>
 
 
-									{{-- <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
-										<div class="timeline-entry-inner">
-											<div class="timeline-icon color-2">
-												<i class="icon-pen2"></i>
-											</div>
-											<div class="timeline-label">
-												<h2><a href="#">Front End Developer at Google Company</a> <span>2017-2018</span></h2>
-												<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-													unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
-													decided to leave for the far World of Grammar.</p>
-											</div>
-										</div>
-									</article>
+										{{-- <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+													<div class="timeline-entry-inner">
+														<div class="timeline-icon color-2">
+															<i class="icon-pen2"></i>
+														</div>
+														<div class="timeline-label">
+															<h2><a href="#">Front End Developer at Google Company</a> <span>2017-2018</span></h2>
+															<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
+																unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
+																decided to leave for the far World of Grammar.</p>
+														</div>
+													</div>
+												</article>
+			
+												<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+													<div class="timeline-entry-inner">
+														<div class="timeline-icon color-3">
+															<i class="icon-pen2"></i>
+														</div>
+														<div class="timeline-label">
+															<h2><a href="#">System Analyst</a> <span>2017-2018</span></h2>
+															<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
+																unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
+																decided to leave for the far World of Grammar.</p>
+														</div>
+													</div>
+												</article>
+			
+												<article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
+													<div class="timeline-entry-inner">
+														<div class="timeline-icon color-4">
+															<i class="icon-pen2"></i>
+														</div>
+														<div class="timeline-label">
+															<h2><a href="#">Creative Designer</a> <span>2017-2018</span></h2>
+															<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
+																unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
+																decided to leave for the far World of Grammar.</p>
+														</div>
+													</div>
+												</article>
+			
+												<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+													<div class="timeline-entry-inner">
+														<div class="timeline-icon color-5">
+															<i class="icon-pen2"></i>
+														</div>
+														<div class="timeline-label">
+															<h2><a href="#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>
+															<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
+																unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
+																decided to leave for the far World of Grammar.</p>
+														</div>
+													</div>
+												</article> --}}
 
-									<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-										<div class="timeline-entry-inner">
-											<div class="timeline-icon color-3">
-												<i class="icon-pen2"></i>
+										<article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+											<div class="timeline-entry-inner">
+												<div class="timeline-icon color-none">
+												</div>
 											</div>
-											<div class="timeline-label">
-												<h2><a href="#">System Analyst</a> <span>2017-2018</span></h2>
-												<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-													unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
-													decided to leave for the far World of Grammar.</p>
-											</div>
-										</div>
-									</article>
-
-									<article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
-										<div class="timeline-entry-inner">
-											<div class="timeline-icon color-4">
-												<i class="icon-pen2"></i>
-											</div>
-											<div class="timeline-label">
-												<h2><a href="#">Creative Designer</a> <span>2017-2018</span></h2>
-												<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-													unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
-													decided to leave for the far World of Grammar.</p>
-											</div>
-										</div>
-									</article>
-
-									<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-										<div class="timeline-entry-inner">
-											<div class="timeline-icon color-5">
-												<i class="icon-pen2"></i>
-											</div>
-											<div class="timeline-label">
-												<h2><a href="#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>
-												<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-													unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
-													decided to leave for the far World of Grammar.</p>
-											</div>
-										</div>
-									</article> --}}
-
-									<article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
-										<div class="timeline-entry-inner">
-											<div class="timeline-icon color-none">
-											</div>
-										</div>
-									</article>
+										</article>
+									</div>
 								</div>
 							</div>
 						</div>
-					</div>
-				</section>
+					</section>
+				</div>
 
 				{{-- EDUCATION --}}
-				<section class="colorlib-education arlo_tm_section" data-section="education" id="education">
-					<div class="colorlib-narrow-content">
-						<div class="row">
-							<div class="arlo_tm_title_holder">
-								<h3>Education</h3>
-								<span>Meet our amazing services</span>
+				<div class="container">
+					<section class="colorlib-education arlo_tm_section" data-section="education" id="education">
+						<div class="colorlib-narrow-content">
+							<div class="row">
+								<div class="arlo_tm_title_holder">
+									<h3>Education</h3>
+									<span>Meet our amazing services</span>
+								</div>
 							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-								<div class="fancy-collapse-panel">
-									<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingOne">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
-														aria-expanded="false" aria-controls="collapseOne">Web Development (December, 2018 – April, 2018)
-													</a>
-												</h4>
-											</div>
-											<div id="collapseOne" class="panel-collapse collapse" role="tabpanel"
-												aria-labelledby="headingOne">
-												<div class="panel-body">
-													<h4>Creative IT</h4>
-													<p>Completed my training for the whole course where it included a CRUD functionality using core PHP and an e-commerce site using Laravel</p>
+							<div class="row">
+								<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+									<div class="fancy-collapse-panel">
+										<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+											<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingOne">
+													<h4 class="panel-title">
+														<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
+															aria-expanded="false" aria-controls="collapseOne">Web Development (December, 2018 – April,
+															2018)
+														</a>
+													</h4>
+												</div>
+												<div id="collapseOne" class="panel-collapse collapse" role="tabpanel"
+													aria-labelledby="headingOne">
+													<div class="panel-body">
+														<h4>Creative IT</h4>
+														<p>Completed my training for the whole course where it included a CRUD functionality using
+															core PHP and an e-commerce site using Laravel</p>
+													</div>
 												</div>
 											</div>
-										</div>
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingTwo">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
-														aria-expanded="false" aria-controls="collapseTwo">Web Design (August, 2018 – October, 2018)
-													</a>
-												</h4>
-											</div>
-											<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel"
-												aria-labelledby="headingTwo">
-												<div class="panel-body">
-													<h4>New Horizon</h4>
-													<p>The course included small projects using HTML and CSS. Here I also got familiar with JavaScript. </p>
+											<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingTwo">
+													<h4 class="panel-title">
+														<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
+															aria-expanded="false" aria-controls="collapseTwo">Web Design (August, 2018 – October,
+															2018)
+														</a>
+													</h4>
+												</div>
+												<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel"
+													aria-labelledby="headingTwo">
+													<div class="panel-body">
+														<h4>New Horizon</h4>
+														<p>The course included small projects using HTML and CSS. Here I also got familiar with
+															JavaScript. </p>
+													</div>
 												</div>
 											</div>
-										</div>
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingThree">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
-														aria-expanded="false" aria-controls="collapseThree">BA in Business (2018) 
-													</a>
-												</h4>
-											</div>
-											<div id="collapseThree" class="panel-collapse collapse" role="tabpanel"
-												aria-labelledby="headingTwo">
-												<div class="panel-body">
-													<h4>University of Wales Trinity Saint David (UWTSD)</h4>
-													<p>Majored in Management, this certification taught me the cultures of a business and how to become a valuable asset to any company that I will be working for. I believe by doing BA in Business helped me become better at researching and finding out answers from whatever mean necessary, which in turn helped me become a better web developer. </p>
+											<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingThree">
+													<h4 class="panel-title">
+														<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
+															aria-expanded="false" aria-controls="collapseThree">BA in Business (2018)
+														</a>
+													</h4>
+												</div>
+												<div id="collapseThree" class="panel-collapse collapse" role="tabpanel"
+													aria-labelledby="headingTwo">
+													<div class="panel-body">
+														<h4>University of Wales Trinity Saint David (UWTSD)</h4>
+														<p>Majored in Management, this certification taught me the cultures of a business and how to
+															become a valuable asset to any company that I will be working for. I believe by doing BA
+															in Business helped me become better at researching and finding out answers from whatever
+															mean necessary, which in turn helped me become a better web developer. </p>
+													</div>
 												</div>
 											</div>
-										</div>
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingFour">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
-														aria-expanded="false" aria-controls="collapseFour">A’ Level (2013)
-													</a>
-												</h4>
-											</div>
-											<div id="collapseFour" class="panel-collapse collapse" role="tabpanel"
-												aria-labelledby="headingFour">
-												<div class="panel-body">
-													<h4>British Council (Dhaka)</h4>
-													<p>Choice of subjects were Accounting and Mathematics. </p>
+											<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingFour">
+													<h4 class="panel-title">
+														<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
+															aria-expanded="false" aria-controls="collapseFour">A’ Level (2013)
+														</a>
+													</h4>
+												</div>
+												<div id="collapseFour" class="panel-collapse collapse" role="tabpanel"
+													aria-labelledby="headingFour">
+													<div class="panel-body">
+														<h4>British Council (Dhaka)</h4>
+														<p>Choice of subjects were Accounting and Mathematics. </p>
+													</div>
 												</div>
 											</div>
-										</div>
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingFive">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"
-														aria-expanded="false" aria-controls="collapseFive">O’ Level (2011) 
-													</a>
-												</h4>
-											</div>
-											<div id="collapseFive" class="panel-collapse collapse" role="tabpanel"
-												aria-labelledby="headingFive">
-												<div class="panel-body">
-													<h4> British Council (Dhaka) </h4>
-													<p>Choice of subjects were Pure Maths, Algebra, Biology, Chemistry, Physics, Accounting, Bangla, English</p>
+											<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingFive">
+													<h4 class="panel-title">
+														<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"
+															aria-expanded="false" aria-controls="collapseFive">O’ Level (2011)
+														</a>
+													</h4>
+												</div>
+												<div id="collapseFive" class="panel-collapse collapse" role="tabpanel"
+													aria-labelledby="headingFive">
+													<div class="panel-body">
+														<h4> British Council (Dhaka) </h4>
+														<p>Choice of subjects were Pure Maths, Algebra, Biology, Chemistry, Physics, Accounting,
+															Bangla, English</p>
+													</div>
 												</div>
 											</div>
-										</div>
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingSix">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"
-														aria-expanded="false" aria-controls="collapseSix">IELTS 
-													</a>
-												</h4>
-											</div>
-											<div id="collapseSix" class="panel-collapse collapse" role="tabpanel"
-												aria-labelledby="headingSix">
-												<div class="panel-body">
-													<h4>Wings International </h4>
-													<p>Score 6.5.</p>
+											<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingSix">
+													<h4 class="panel-title">
+														<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"
+															aria-expanded="false" aria-controls="collapseSix">IELTS
+														</a>
+													</h4>
+												</div>
+												<div id="collapseSix" class="panel-collapse collapse" role="tabpanel"
+													aria-labelledby="headingSix">
+													<div class="panel-body">
+														<h4>Wings International </h4>
+														<p>Score 6.5.</p>
+													</div>
 												</div>
 											</div>
 										</div>
@@ -399,8 +411,9 @@
 								</div>
 							</div>
 						</div>
-					</div>
-				</section>
+					</section>
+				</div>
+
 
 
 				<!-- SKILLS -->
@@ -509,7 +522,7 @@
 									<li>
 										<div class="inner">
 											<div class="icon" style="color: #E3872D">
-													<i class="fas fa-palette fa-3x"></i>
+												<i class="fas fa-palette fa-3x"></i>
 											</div>
 											<div class="title_service">
 												<h3>Web Design</h3>
@@ -537,7 +550,7 @@
 									<li>
 										<div class="inner">
 											<div class="icon" style="color: #E3872D">
-													<i class="fas fa-mobile-alt fa-3x"></i>
+												<i class="fas fa-mobile-alt fa-3x"></i>
 											</div>
 											<div class="title_service">
 												<h3>Application</h3>
@@ -612,11 +625,14 @@
 															<h3><a href="https://moviethings.herokuapp.com/">MovieThings</a></h3>
 															<span>Vue, Laravel, TMDB API, Axios, Vue-Router </span>
 															<div class="text">
-																	<p>A Web Application for watching movie trailers and to get movie information. This was done using Vue for frontend and Laravel for convenience.</p>
+																<p>A Web Application for watching movie trailers and to get movie information. This was
+																	done using Vue for frontend and Laravel for convenience.</p>
 															</div>
 															<p class="icon">
-																<span><a href="https://github.com/rabbilable/movie-stuffs"><i class="icon-social-github"></i>Source</a></span>
-																<span><a href="https://moviethings.herokuapp.com/"><i class="icon-link-outline"></i>Website</a></span>
+																<span><a href="https://github.com/rabbilable/movie-stuffs"><i
+																			class="icon-social-github"></i>Source</a></span>
+																<span><a href="https://moviethings.herokuapp.com/"><i
+																			class="icon-link-outline"></i>Website</a></span>
 																{{-- <span><a href="#"><i class="icon-heart"></i> 49</a></span> --}}
 															</p>
 														</div>
