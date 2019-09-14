@@ -21,7 +21,7 @@
 
     <link rel="stylesheet" type="text/css" href="{{asset('assets/css/style.css')}}" />
     <!-- Animate.css -->
-    <link rel="stylesheet" href="{{asset('jackson/css/animate.css')}}">
+    {{-- <link rel="stylesheet" href="{{asset('jackson/css/animate.css')}}"> --}}
     <!-- Icomoon Icon Fonts-->
     <link rel="stylesheet" href="{{asset('jackson/css/icomoon.css')}}">
     <!-- Bootstrap  -->
@@ -31,8 +31,8 @@
     <!-- Flaticons  -->
     {{-- <link rel="stylesheet" href="{{asset('jackson/fonts/flaticon/font/flaticon.css')}}"> --}}
     <!-- Owl Carousel -->
-    <link rel="stylesheet" href="{{asset('jackson/css/owl.carousel.min.css')}}">
-    <link rel="stylesheet" href="{{asset('jackson/css/owl.theme.default.min.css')}}">
+    {{-- <link rel="stylesheet" href="{{asset('jackson/css/owl.carousel.min.css')}}"> --}}
+    {{-- <link rel="stylesheet" href="{{asset('jackson/css/owl.theme.default.min.css')}}"> --}}
     <!-- Theme style  -->
     <link rel="stylesheet" href="{{asset('jackson/css/style.css')}}">
 

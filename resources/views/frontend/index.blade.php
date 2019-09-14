@@ -494,8 +494,8 @@
 								<ul>
 									<li>
 										<div class="inner">
-											<div class="icon">
-												<img class="svg" src="{{asset('assets/img/svg/development.svg')}}" alt="" />
+											<div class="icon" style="color: #E3872D">
+												<i class="far fa-file-code fa-3x"></i>
 											</div>
 											<div class="title_service">
 												<h3>Web Development</h3>
@@ -508,8 +508,8 @@
 									</li>
 									<li>
 										<div class="inner">
-											<div class="icon">
-												<img class="svg" src="{{asset('assets/img/svg/design.svg')}}" alt="" />
+											<div class="icon" style="color: #E3872D">
+													<i class="fas fa-palette fa-3x"></i>
 											</div>
 											<div class="title_service">
 												<h3>Web Design</h3>
@@ -522,11 +522,11 @@
 									</li>
 									<li>
 										<div class="inner">
-											<div class="icon">
-												<img class="svg" src="{{asset('assets/img/svg/idea.svg')}}" alt="" />
+											<div class="icon" style="color: #E3872D">
+												<i class="fas fa-database fa-3x"></i>
 											</div>
 											<div class="title_service">
-												<h3>Innovative Ideas</h3>
+												<h3>Database</h3>
 											</div>
 											<div class="text">
 												<p>Web design is a similar process of creation, with the intention of presenting the content
@@ -536,8 +536,8 @@
 									</li>
 									<li>
 										<div class="inner">
-											<div class="icon">
-												<img class="svg" src="{{asset('assets/img/svg/application.svg')}}" alt="" />
+											<div class="icon" style="color: #E3872D">
+													<i class="fas fa-mobile-alt fa-3x"></i>
 											</div>
 											<div class="title_service">
 												<h3>Application</h3>
@@ -550,8 +550,8 @@
 									</li>
 									<li>
 										<div class="inner">
-											<div class="icon">
-												<img class="svg" src="{{asset('assets/img/svg/software.svg')}}" alt="" />
+											<div class="icon" style="color: #E3872D">
+												<i class="fas fa-laptop-code fa-3x"></i>
 											</div>
 											<div class="title_service">
 												<h3>Software</h3>
@@ -564,8 +564,8 @@
 									</li>
 									<li>
 										<div class="inner">
-											<div class="icon">
-												<img class="svg" src="{{asset('assets/img/svg/management.svg')}}" alt="" />
+											<div class="icon" style="color: #E3872D">
+												<i class="fas fa-people-carry fa-3x  "></i>
 											</div>
 											<div class="title_service">
 												<h3>Management</h3>
