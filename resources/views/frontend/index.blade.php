@@ -138,7 +138,7 @@
 											<p>Hi! My name is <strong>Rabbil Yasar</strong>. I am a Web Developer, and I'm very passionate
 												and dedicated to my work. May not have the experience as others but I do overcome it with my
 												dedication to my work. I like when the product gets done and I love the research in the
-												middle. I like solving problems but bost importantly I love learning.</p>
+												middle. I like solving problems but most importantly I love learning.</p>
 										</div>
 										<div class="about_short_contact_wrap">
 											<ul>
@@ -433,7 +433,7 @@
 									<div class="progress_bar_wrap_total">
 										<div class="arlo_tm_progress_wrap" data-size="small" data-round="c" data-strip="off">
 											<div class="arlo_tm_progress" data-value="90" data-color="#000">
-												<span><span class="label">PHP - <span class="experience"> > 1 years of
+												<span><span class="label">PHP - <span class="experience"> > 1 year of
 															experience</span></span><span class="number">90%</span></span>
 												<div class="arlo_tm_bar_bg">
 													<div class="arlo_tm_bar_wrap">
@@ -442,7 +442,7 @@
 												</div>
 											</div>
 											<div class="arlo_tm_progress" data-value="90" data-color="#000">
-												<span><span class="label">Laravel - <span class="experience">1 years of
+												<span><span class="label">Laravel - <span class="experience">1 year of
 															experience</span></span><span class="number">90%</span></span>
 												<div class="arlo_tm_bar_bg">
 													<div class="arlo_tm_bar_wrap">
@@ -451,7 +451,7 @@
 												</div>
 											</div>
 											<div class="arlo_tm_progress" data-value="70" data-color="#000">
-												<span><span class="label">Vue - <span class="experience"> < 1 years of
+												<span><span class="label">Vue - <span class="experience"> < 1 year of
 															experience</span></span><span class="number">70%</span></span>
 												<div class="arlo_tm_bar_bg">
 													<div class="arlo_tm_bar_wrap">
@@ -460,7 +460,7 @@
 												</div>
 											</div>
 											<div class="arlo_tm_progress" data-value="85" data-color="#000">
-												<span><span class="label">JavaScript - <span class="experience">  < 1 years of
+												<span><span class="label">JavaScript - <span class="experience">  < 1 year of
 															experience</span></span><span class="number">85%</span></span>
 												<div class="arlo_tm_bar_bg">
 													<div class="arlo_tm_bar_wrap">
@@ -469,7 +469,7 @@
 												</div>
 											</div>
 											<div class="arlo_tm_progress" data-value="75" data-color="#000">
-												<span><span class="label">HTML - <span class="experience"> 1 years of
+												<span><span class="label">HTML - <span class="experience"> 1 year of
 															experience</span></span><span class="number">75%</span></span>
 												<div class="arlo_tm_bar_bg">
 													<div class="arlo_tm_bar_wrap">
@@ -478,7 +478,7 @@
 												</div>
 											</div>
 											<div class="arlo_tm_progress" data-value="60" data-color="#000">
-												<span><span class="label">CSS - <span class="experience">1 years of
+												<span><span class="label">CSS - <span class="experience">1 year of
 															experience</span></span><span class="number">60%</span></span>
 												<div class="arlo_tm_bar_bg">
 													<div class="arlo_tm_bar_wrap">
@@ -553,7 +553,7 @@
 												<h3>Application</h3>
 											</div>
 											<div class="text">
-												<p>Capable of making any type of web application, following the current market trend and desighn concept meeting clients demand  ...</p>
+												<p>Capable of making any type of web application, following the current market trend and design concept meeting clients demand  ...</p>
 											</div>
 										</div>
 									</li>
@@ -566,7 +566,7 @@
 												<h3>Software</h3>
 											</div>
 											<div class="text">
-												<p>I have experience working on HR softwares which is currently being used by company for their daily usage to handle their day to day operations  ...</p>
+												<p>I have experience working on HR softwares which are currently being used by company for their daily usage to handle their day to day operations  ...</p>
 											</div>
 										</div>
 									</li>
@@ -612,7 +612,7 @@
 										<li><a href="#" data-filter=".javascript">JavaScript</a></li>
 									</ul>
 									<ul class="arlo_tm_portfolio_list gallery_zoom">
-											<li class="Laravel">
+											<li class="laravel">
 													<div class="animate-box" data-animate-effect="fadeInLeft">
 														<div class="project" style="background-image: url({{asset('jackson/images/img-2.jpg')}});">
 															<div class="desc">
@@ -641,8 +641,7 @@
 															<h3><a href="https://moviethings.herokuapp.com/" target="blank">MovieThings</a></h3>
 															<span>Vue, Laravel, TMDB API, Axios, Vue-Router </span>
 															<div class="text">
-																<p>A Web Application for watching movie trailers and to get movie information. This was
-																	done using Vue for frontend and Laravel for convenience.</p>
+																<p>A dynamic Web Application for watching movie trailers and to get movie information.</p>
 															</div>
 															<p class="icon">
 																<span><a href="https://github.com/rabbilable/movie-stuffs" target="blank"><i
@@ -760,7 +759,7 @@
 												</div>
 											</div>
 										</li>
-										<li class="javascript">
+										<li class="vue">
 											<div class="animate-box" data-animate-effect="fadeInLeft">
 												<div class="project" style="background-image: url({{asset('jackson/images/img-8.jpg')}});">
 													<div class="desc">
@@ -781,7 +780,7 @@
 												</div>
 											</div>
 										</li>
-										<li class="Laravel">
+										<li class="laravel">
 											<div class="animate-box" data-animate-effect="fadeInLeft">
 												<div class="project" style="background-image: url({{asset('jackson/images/img-9.jpg')}});">
 													<div class="desc">
