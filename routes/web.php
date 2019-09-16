@@ -11,9 +11,9 @@
 |
 */
 
-Route::get('/', function () {
-    return view('frontend.index');
-});
+Route::get('/', 'FrontendController@index');
+Route::post('/contact/store', 'FrontendController@send')->name('contact.send');
+
 Route::get('/profile', function () {
     return view('backend.index');
 });
