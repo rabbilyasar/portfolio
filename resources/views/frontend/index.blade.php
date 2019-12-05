@@ -12,11 +12,11 @@
 	</div>
 
 	<!-- PRELOADER -->
-	{{-- <div class="arlo_tm_preloader">
+	<div class="arlo_tm_preloader">
 		<div class="spinner_wrap">
 			<div class="spinner"></div>
 		</div>
-	</div> --}}
+	</div>
 	<!-- /PRELOADER -->
 
 	<!-- MOBILE MENU -->
@@ -71,9 +71,9 @@
 				<div class="leftpart_bottom">
 					<div class="social_wrap">
 						<ul>
-							<li><a href="#"><i class="fab fa-github"></i></a></li>
-							<li style="padding-left: 10px"><a href="#"><i class="fab fa-hackerrank"></i></a></li>
-							<li style="padding-left: 10px"><a href="#"><i class="xcon-linkedin"></i></a></li>
+							<li><a href="https://github.com/rabbilable" target="none"><i class="fab fa-github"></i></a></li>
+							<li style="padding-left: 10px"><a href="hackerrank.com/rabbilable" target="none"><i class="fab fa-hackerrank"></i></a></li>
+							<li style="padding-left: 10px"><a href="https://www.linkedin.com/in/tanvirsajal/" target="none"><i class="xcon-linkedin"></i></a></li>
 						</ul>
 					</div>
 				</div>
@@ -132,13 +132,13 @@
 									</div>
 									<div class="rightbox justify-content-center">
 										<div class="arlo_tm_mini_title_holder">
-											<h4>I'm Rabbil Yasar and <span class="arlo_tm_animation_text_word"></span></h4>
+											<h4>I'm Rabbil Yasar and a <span class="arlo_tm_animation_text_word"></span></h4>
 										</div>
 										<div class="definition">
 											<p>Hi! My name is <strong>Rabbil Yasar</strong>. I am a Web Developer, and I'm very passionate
 												and dedicated to my work. May not have the experience as others but I do overcome it with my
 												dedication to my work. I like when the product gets done and I love the research in the
-												middle. I like solving problems but bost importantly I love learning.</p>
+												middle. I like solving problems but most importantly I love learning.</p>
 										</div>
 										<div class="about_short_contact_wrap">
 											<ul>
@@ -159,7 +159,7 @@
 															href="mailto:rabbilyasar@gmail.com">rabbilyasar&#64;gmail.com</a></span>
 												</li>
 												<li>
-													<span><label>Phone:</label> <a href="#">+880 1789 357 288</a></span>
+													<span><label>Phone:</label> <a href="#">+880 1789 35 72 88</a></span>
 												</li>
 											</ul>
 										</div>
@@ -182,216 +182,228 @@
 				<!-- /ABOUT -->
 
 				{{-- EXPERIENCE --}}
-				<section class="colorlib-experience arlo_tm_section" data-section="experience" id="experience">
-					<div class="colorlib-narrow-content">
-						<div class="row">
-							<div class="arlo_tm_title_holder">
-								<h3>Experience</h3>
-								<span>Meet our amazing services</span>
+				<div class="container">
+					<section class="colorlib-experience arlo_tm_section" data-section="experience" id="experience">
+						<div class="colorlib-narrow-content">
+							<div class="row">
+								<div class="arlo_tm_title_holder">
+									<h3>Experience</h3>
+									<span>My experiences so far</span>
+								</div>
 							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-12">
-								<div class="timeline-centered">
-									<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-										<div class="timeline-entry-inner">
+							<div class="row">
+								<div class="col-md-12">
+									<div class="timeline-centered">
+										<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+											<div class="timeline-entry-inner">
 
-											<div class="timeline-icon color-1">
-												<i class="icon-pen2"></i>
-											</div>
+												<div class="timeline-icon color-1">
+													<i class="icon-pen2"></i>
+												</div>
 
-											<div class="timeline-label">
-												<h2><a href="#">Software Engineer Intern</a> <span>Apr, 2019-July, 2019</span></h2>
-												<h2>Creative IT</h2>
-												<h3>Key Responsibilities</h3>
-												<p>
-													<ul>
-														<li>Make Software as per the company requirements.</li>
-														<li> Co-operate with team members to finish projects assigned by the company. </li>
-														<li> Assist students to help them understand problems.</li>
-														<li> Finding innovative ways to perform day to day problem solving. </li>
-														<li> Give briefing to clients on the software and how it works.</li>
-													</ul>
-												</p>
+												<div class="timeline-label">
+													<h2><a href="#">Software Engineer Intern</a> <span>Apr, 2019-July, 2019</span></h2>
+													<h2>Creative IT</h2>
+													<h3>Key Responsibilities</h3>
+													<p>
+														<ul>
+															<li>Make Software as per the company requirements.</li>
+															<li> Co-operate with team members to finish projects assigned by the company. </li>
+															<li> Assist students to help them understand problems.</li>
+															<li> Finding innovative ways to perform day to day problem solving. </li>
+															<li> Give briefing to clients on the software and how it works.</li>
+														</ul>
+													</p>
+												</div>
 											</div>
-										</div>
-									</article>
+										</article>
 
 
-									{{-- <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
-										<div class="timeline-entry-inner">
-											<div class="timeline-icon color-2">
-												<i class="icon-pen2"></i>
-											</div>
-											<div class="timeline-label">
-												<h2><a href="#">Front End Developer at Google Company</a> <span>2017-2018</span></h2>
-												<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-													unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
-													decided to leave for the far World of Grammar.</p>
-											</div>
-										</div>
-									</article>
+										{{-- <article class="timeline-entry animate-box" data-animate-effect="fadeInRight">
+													<div class="timeline-entry-inner">
+														<div class="timeline-icon color-2">
+															<i class="icon-pen2"></i>
+														</div>
+														<div class="timeline-label">
+															<h2><a href="#">Front End Developer at Google Company</a> <span>2017-2018</span></h2>
+															<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
+																unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
+																decided to leave for the far World of Grammar.</p>
+														</div>
+													</div>
+												</article>
+			
+												<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+													<div class="timeline-entry-inner">
+														<div class="timeline-icon color-3">
+															<i class="icon-pen2"></i>
+														</div>
+														<div class="timeline-label">
+															<h2><a href="#">System Analyst</a> <span>2017-2018</span></h2>
+															<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
+																unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
+																decided to leave for the far World of Grammar.</p>
+														</div>
+													</div>
+												</article>
+			
+												<article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
+													<div class="timeline-entry-inner">
+														<div class="timeline-icon color-4">
+															<i class="icon-pen2"></i>
+														</div>
+														<div class="timeline-label">
+															<h2><a href="#">Creative Designer</a> <span>2017-2018</span></h2>
+															<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
+																unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
+																decided to leave for the far World of Grammar.</p>
+														</div>
+													</div>
+												</article>
+			
+												<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+													<div class="timeline-entry-inner">
+														<div class="timeline-icon color-5">
+															<i class="icon-pen2"></i>
+														</div>
+														<div class="timeline-label">
+															<h2><a href="#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>
+															<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
+																unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
+																decided to leave for the far World of Grammar.</p>
+														</div>
+													</div>
+												</article> --}}
 
-									<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-										<div class="timeline-entry-inner">
-											<div class="timeline-icon color-3">
-												<i class="icon-pen2"></i>
+										<article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+											<div class="timeline-entry-inner">
+												<div class="timeline-icon color-none">
+												</div>
 											</div>
-											<div class="timeline-label">
-												<h2><a href="#">System Analyst</a> <span>2017-2018</span></h2>
-												<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-													unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
-													decided to leave for the far World of Grammar.</p>
-											</div>
-										</div>
-									</article>
-
-									<article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
-										<div class="timeline-entry-inner">
-											<div class="timeline-icon color-4">
-												<i class="icon-pen2"></i>
-											</div>
-											<div class="timeline-label">
-												<h2><a href="#">Creative Designer</a> <span>2017-2018</span></h2>
-												<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-													unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
-													decided to leave for the far World of Grammar.</p>
-											</div>
-										</div>
-									</article>
-
-									<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-										<div class="timeline-entry-inner">
-											<div class="timeline-icon color-5">
-												<i class="icon-pen2"></i>
-											</div>
-											<div class="timeline-label">
-												<h2><a href="#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>
-												<p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-													unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
-													decided to leave for the far World of Grammar.</p>
-											</div>
-										</div>
-									</article> --}}
-
-									<article class="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
-										<div class="timeline-entry-inner">
-											<div class="timeline-icon color-none">
-											</div>
-										</div>
-									</article>
+										</article>
+									</div>
 								</div>
 							</div>
 						</div>
-					</div>
-				</section>
+					</section>
+				</div>
 
 				{{-- EDUCATION --}}
-				<section class="colorlib-education arlo_tm_section" data-section="education" id="education">
-					<div class="colorlib-narrow-content">
-						<div class="row">
-							<div class="arlo_tm_title_holder">
-								<h3>Education</h3>
-								<span>Meet our amazing services</span>
+				<div class="container">
+					<section class="colorlib-education arlo_tm_section" data-section="education" id="education">
+						<div class="colorlib-narrow-content">
+							<div class="row">
+								<div class="arlo_tm_title_holder">
+									<h3>Education</h3>
+									<span>My qualifications on paper</span>
+								</div>
 							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-								<div class="fancy-collapse-panel">
-									<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingOne">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
-														aria-expanded="false" aria-controls="collapseOne">Web Development (December, 2018 – April, 2018)
-													</a>
-												</h4>
-											</div>
-											<div id="collapseOne" class="panel-collapse collapse" role="tabpanel"
-												aria-labelledby="headingOne">
-												<div class="panel-body">
-													<h4>Creative IT</h4>
-													<p>Completed my training for the whole course where it included a CRUD functionality using core PHP and an e-commerce site using Laravel</p>
+							<div class="row">
+								<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+									<div class="fancy-collapse-panel">
+										<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+											<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingOne">
+													<h4 class="panel-title">
+														<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
+															aria-expanded="false" aria-controls="collapseOne">Web Development (December, 2018 – April,
+															2018)
+														</a>
+													</h4>
+												</div>
+												<div id="collapseOne" class="panel-collapse collapse" role="tabpanel"
+													aria-labelledby="headingOne">
+													<div class="panel-body">
+														<h4>Creative IT</h4>
+														<p>Completed my training for the whole course where it included a CRUD functionality using
+															core PHP and an e-commerce site using Laravel</p>
+													</div>
 												</div>
 											</div>
-										</div>
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingTwo">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
-														aria-expanded="false" aria-controls="collapseTwo">Web Design (August, 2018 – October, 2018)
-													</a>
-												</h4>
-											</div>
-											<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel"
-												aria-labelledby="headingTwo">
-												<div class="panel-body">
-													<h4>New Horizon</h4>
-													<p>The course included small projects using HTML and CSS. Here I also got familiar with JavaScript. </p>
+											<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingTwo">
+													<h4 class="panel-title">
+														<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
+															aria-expanded="false" aria-controls="collapseTwo">Web Design (August, 2018 – October,
+															2018)
+														</a>
+													</h4>
+												</div>
+												<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel"
+													aria-labelledby="headingTwo">
+													<div class="panel-body">
+														<h4>New Horizon</h4>
+														<p>The course included small projects using HTML and CSS. Here I also got familiar with
+															JavaScript. </p>
+													</div>
 												</div>
 											</div>
-										</div>
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingThree">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
-														aria-expanded="false" aria-controls="collapseThree">BA in Business (2018) 
-													</a>
-												</h4>
-											</div>
-											<div id="collapseThree" class="panel-collapse collapse" role="tabpanel"
-												aria-labelledby="headingTwo">
-												<div class="panel-body">
-													<h4>University of Wales Trinity Saint David (UWTSD)</h4>
-													<p>Majored in Management, this certification taught me the cultures of a business and how to become a valuable asset to any company that I will be working for. I believe by doing BA in Business helped me become better at researching and finding out answers from whatever mean necessary, which in turn helped me become a better web developer. </p>
+											<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingThree">
+													<h4 class="panel-title">
+														<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
+															aria-expanded="false" aria-controls="collapseThree">BA in Business (2018)
+														</a>
+													</h4>
+												</div>
+												<div id="collapseThree" class="panel-collapse collapse" role="tabpanel"
+													aria-labelledby="headingTwo">
+													<div class="panel-body">
+														<h4>University of Wales Trinity Saint David (UWTSD)</h4>
+														<p>Majored in Management, this certification taught me the cultures of a business and how to
+															become a valuable asset to any company that I will be working for. I believe by doing BA
+															in Business helped me become better at researching and finding out answers from whatever
+															mean necessary, which in turn helped me become a better web developer. </p>
+													</div>
 												</div>
 											</div>
-										</div>
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingFour">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
-														aria-expanded="false" aria-controls="collapseFour">A’ Level (2013)
-													</a>
-												</h4>
-											</div>
-											<div id="collapseFour" class="panel-collapse collapse" role="tabpanel"
-												aria-labelledby="headingFour">
-												<div class="panel-body">
-													<h4>British Council (Dhaka)</h4>
-													<p>Choice of subjects were Accounting and Mathematics. </p>
+											<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingFour">
+													<h4 class="panel-title">
+														<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
+															aria-expanded="false" aria-controls="collapseFour">A’ Level (2013)
+														</a>
+													</h4>
+												</div>
+												<div id="collapseFour" class="panel-collapse collapse" role="tabpanel"
+													aria-labelledby="headingFour">
+													<div class="panel-body">
+														<h4>British Council (Dhaka)</h4>
+														<p>Choice of subjects were Accounting and Mathematics. </p>
+													</div>
 												</div>
 											</div>
-										</div>
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingFive">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"
-														aria-expanded="false" aria-controls="collapseFive">O’ Level (2011) 
-													</a>
-												</h4>
-											</div>
-											<div id="collapseFive" class="panel-collapse collapse" role="tabpanel"
-												aria-labelledby="headingFive">
-												<div class="panel-body">
-													<h4> British Council (Dhaka) </h4>
-													<p>Choice of subjects were Pure Maths, Algebra, Biology, Chemistry, Physics, Accounting, Bangla, English</p>
+											<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingFive">
+													<h4 class="panel-title">
+														<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"
+															aria-expanded="false" aria-controls="collapseFive">O’ Level (2011)
+														</a>
+													</h4>
+												</div>
+												<div id="collapseFive" class="panel-collapse collapse" role="tabpanel"
+													aria-labelledby="headingFive">
+													<div class="panel-body">
+														<h4> British Council (Dhaka) </h4>
+														<p>Choice of subjects were Pure Maths, Algebra, Biology, Chemistry, Physics, Accounting,
+															Bangla, English</p>
+													</div>
 												</div>
 											</div>
-										</div>
-										<div class="panel panel-default">
-											<div class="panel-heading" role="tab" id="headingSix">
-												<h4 class="panel-title">
-													<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"
-														aria-expanded="false" aria-controls="collapseSix">Web Development (December, 2018 – April, 2018)
-													</a>
-												</h4>
-											</div>
-											<div id="collapseSix" class="panel-collapse collapse" role="tabpanel"
-												aria-labelledby="headingSix">
-												<div class="panel-body">
-													<h4>Creative IT</h4>
-													<p>Completed my training for the whole course where it included a CRUD functionality using core PHP and an e-commerce site using Laravel</p>
+											<div class="panel panel-default">
+												<div class="panel-heading" role="tab" id="headingSix">
+													<h4 class="panel-title">
+														<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"
+															aria-expanded="false" aria-controls="collapseSix">IELTS
+														</a>
+													</h4>
+												</div>
+												<div id="collapseSix" class="panel-collapse collapse" role="tabpanel"
+													aria-labelledby="headingSix">
+													<div class="panel-body">
+														<h4>Wings International </h4>
+														<p>Score 6.5.</p>
+													</div>
 												</div>
 											</div>
 										</div>
@@ -399,8 +411,9 @@
 								</div>
 							</div>
 						</div>
-					</div>
-				</section>
+					</section>
+				</div>
+
 
 
 				<!-- SKILLS -->
@@ -412,15 +425,15 @@
 									<div class="arlo_tm_mini_title_holder">
 										<h4>Some About my Abilities</h4>
 									</div>
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-										the industry's standard dummy text ever since. Lorem Ipsum has been the industry. Lorem Ipsum
-										has been the industry's standard dummy text since. Lorem Ipsum is simply.</p>
+									<p> <q>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</q> 
+									
+										― Martin Fowler</p>
 								</div>
 								<div class="rightbox">
 									<div class="progress_bar_wrap_total">
 										<div class="arlo_tm_progress_wrap" data-size="small" data-round="c" data-strip="off">
 											<div class="arlo_tm_progress" data-value="90" data-color="#000">
-												<span><span class="label">PHP - <span class="experience"> 1 years of
+												<span><span class="label">PHP - <span class="experience"> > 1 year of
 															experience</span></span><span class="number">90%</span></span>
 												<div class="arlo_tm_bar_bg">
 													<div class="arlo_tm_bar_wrap">
@@ -429,7 +442,7 @@
 												</div>
 											</div>
 											<div class="arlo_tm_progress" data-value="90" data-color="#000">
-												<span><span class="label">Laravel - <span class="experience">1 years of
+												<span><span class="label">Laravel - <span class="experience">1 year of
 															experience</span></span><span class="number">90%</span></span>
 												<div class="arlo_tm_bar_bg">
 													<div class="arlo_tm_bar_wrap">
@@ -438,7 +451,7 @@
 												</div>
 											</div>
 											<div class="arlo_tm_progress" data-value="70" data-color="#000">
-												<span><span class="label">Vue - <span class="experience"> >1 years of
+												<span><span class="label">Vue - <span class="experience"> < 1 year of
 															experience</span></span><span class="number">70%</span></span>
 												<div class="arlo_tm_bar_bg">
 													<div class="arlo_tm_bar_wrap">
@@ -447,7 +460,7 @@
 												</div>
 											</div>
 											<div class="arlo_tm_progress" data-value="85" data-color="#000">
-												<span><span class="label">JavaScript - <span class="experience"> >1 years of
+												<span><span class="label">JavaScript - <span class="experience">  < 1 year of
 															experience</span></span><span class="number">85%</span></span>
 												<div class="arlo_tm_bar_bg">
 													<div class="arlo_tm_bar_wrap">
@@ -456,7 +469,7 @@
 												</div>
 											</div>
 											<div class="arlo_tm_progress" data-value="75" data-color="#000">
-												<span><span class="label">HTML - <span class="experience"> 1 years of
+												<span><span class="label">HTML - <span class="experience"> 1 year of
 															experience</span></span><span class="number">75%</span></span>
 												<div class="arlo_tm_bar_bg">
 													<div class="arlo_tm_bar_wrap">
@@ -465,7 +478,7 @@
 												</div>
 											</div>
 											<div class="arlo_tm_progress" data-value="60" data-color="#000">
-												<span><span class="label">CSS - <span class="experience">1 years of
+												<span><span class="label">CSS - <span class="experience">1 year of
 															experience</span></span><span class="number">60%</span></span>
 												<div class="arlo_tm_bar_bg">
 													<div class="arlo_tm_bar_wrap">
@@ -488,7 +501,7 @@
 						<div class="container">
 							<div class="arlo_tm_title_holder">
 								<h3>Amazing Services</h3>
-								<span>Meet our amazing services</span>
+								<span>Get Familiar with the services I provide</span>
 							</div>
 							<div class="list_wrap">
 								<ul>
@@ -498,25 +511,23 @@
 												<i class="far fa-file-code fa-3x"></i>
 											</div>
 											<div class="title_service">
-												<h3>Web Development</h3>
+												<h3>Backend</h3>
 											</div>
 											<div class="text">
-												<p>Web design is a similar process of creation, with the intention of presenting the content
-													on electronic pages ...</p>
+												<p>Technologies I can work with are PHP, Laravel which I can use for API development and other backend related task per market demand....</p>
 											</div>
 										</div>
 									</li>
 									<li>
 										<div class="inner">
 											<div class="icon" style="color: #E3872D">
-													<i class="fas fa-palette fa-3x"></i>
+												<i class="fas fa-palette fa-3x"></i>
 											</div>
 											<div class="title_service">
-												<h3>Web Design</h3>
+												<h3>Frontend</h3>
 											</div>
 											<div class="text">
-												<p>Web design is a similar process of creation, with the intention of presenting the content
-													on electronic pages ...</p>
+												<p>Strong frontend knowledge of HTML, CSS, Bootstrap, JavaScript and Vue. Which I can use with Laravel to build a fullstack app...</p>
 											</div>
 										</div>
 									</li>
@@ -529,22 +540,20 @@
 												<h3>Database</h3>
 											</div>
 											<div class="text">
-												<p>Web design is a similar process of creation, with the intention of presenting the content
-													on electronic pages ...</p>
+												<p>I can work with SQL databases like MySQL, MariaDB and also has experience working on NoSQL database such firestore...</p>
 											</div>
 										</div>
 									</li>
 									<li>
 										<div class="inner">
 											<div class="icon" style="color: #E3872D">
-													<i class="fas fa-mobile-alt fa-3x"></i>
+												<i class="fas fa-mobile-alt fa-3x"></i>
 											</div>
 											<div class="title_service">
 												<h3>Application</h3>
 											</div>
 											<div class="text">
-												<p>Web design is a similar process of creation, with the intention of presenting the content
-													on electronic pages ...</p>
+												<p>Capable of making any type of web application, following the current market trend and design concept meeting clients demand  ...</p>
 											</div>
 										</div>
 									</li>
@@ -557,8 +566,7 @@
 												<h3>Software</h3>
 											</div>
 											<div class="text">
-												<p>Web design is a similar process of creation, with the intention of presenting the content
-													on electronic pages ...</p>
+												<p>I have experience working on HR softwares which are currently being used by company for their daily usage to handle their day to day operations  ...</p>
 											</div>
 										</div>
 									</li>
@@ -571,8 +579,7 @@
 												<h3>Management</h3>
 											</div>
 											<div class="text">
-												<p>Web design is a similar process of creation, with the intention of presenting the content
-													on electronic pages ...</p>
+												<p>I have a degree on management so I am more than capable of managing an organization if needed with my expertise and my knowledge ...</p>
 											</div>
 										</div>
 									</li>
@@ -595,78 +602,206 @@
 								<div class="arlo_tm_portfolio_wrap">
 									<div class="arlo_tm_title_holder portfolio">
 										<h3>Creative Works</h3>
-										<span>Check out our latest creative works</span>
+										<span>Check out all my projects</span>
 									</div>
 									<div class="arlo_tm_portfolio_titles"></div>
 									<ul class="arlo_tm_portfolio_filter">
 										<li><a href="#" class="current" data-filter="*">All</a></li>
-										<li><a href="#" data-filter=".design">Design</a></li>
-										<li><a href="#" data-filter=".photography">Photography</a></li>
-										<li><a href="#" data-filter=".development">Development</a></li>
+										<li><a href="#" data-filter=".laravel">Laravel</a></li>
+										<li><a href="#" data-filter=".vue">Vue</a></li>
+										<li><a href="#" data-filter=".javascript">JavaScript</a></li>
 									</ul>
 									<ul class="arlo_tm_portfolio_list gallery_zoom">
-										<li class="design">
+											<li class="laravel">
+													<div class="animate-box" data-animate-effect="fadeInLeft">
+														<div class="project" style="background-image: url({{asset('jackson/images/img-2.jpg')}});">
+															<div class="desc">
+																<div class="con">
+																	<h3><a href="http://inventory.buscoms.com/login" target="blank">Creative Inventory</a></h3>
+																	<span>Laravel </span>
+																	<div class="text">
+																		<p>A dynamice inventory management system for creative IT. .</p>
+																	</div>
+																	<p class="icon">
+																		<span><a href="https://github.com/rabbilable/creativeinventory_v2" target="blank"><i
+																					class="icon-social-github"></i>Source</a></span>
+																		<span><a href="http://inventory.buscoms.com/login" target="blank"><i
+																					class="icon-link-outline"></i>Website</a></span>
+																	</p>
+																</div>
+															</div>
+														</div>
+													</div>
+												</li>
+										<li class="vue">
 											<div class="animate-box" data-animate-effect="fadeInLeft">
 												<div class="project" style="background-image: url({{asset('jackson/images/img-1.jpg')}});">
 													<div class="desc">
 														<div class="con">
-															<h3><a href="work.html">Work 01</a></h3>
-															<span>Website</span>
+															<h3><a href="https://moviethings.herokuapp.com/" target="blank">MovieThings</a></h3>
+															<span>Vue, Laravel, TMDB API, Axios, Vue-Router </span>
+															<div class="text">
+																<p>A dynamic Web Application for watching movie trailers and to get movie information.</p>
+															</div>
 															<p class="icon">
-																<span><a href="#"><i class="icon-share3"></i></a></span>
-																<span><a href="#"><i class="icon-eye"></i> 100</a></span>
-																<span><a href="#"><i class="icon-heart"></i> 49</a></span>
+																<span><a href="https://github.com/rabbilable/movie-stuffs" target="blank"><i
+																			class="icon-social-github"></i>Source</a></span>
+																<span><a href="https://moviethings.herokuapp.com/" target="blank"><i
+																			class="icon-link-outline"></i>Website</a></span>
 															</p>
 														</div>
 													</div>
 												</div>
 											</div>
 										</li>
-										{{-- <li class="photography">
-											<div class="entry arlo_tm_portfolio_animation_wrap" data-title="Ind Hed"
-												data-category="Photography">
-												<a href="portfolio-single-2.html">
-													<img src="img/portfolio/600x600.jpg" alt="" />
-													<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/2.jpg"></div>
-												</a>
+										<li class="javascript">
+											<div class="animate-box" data-animate-effect="fadeInLeft">
+												<div class="project" style="background-image: url({{asset('jackson/images/img-3.jpg')}});">
+													<div class="desc">
+														<div class="con">
+															<h3><a href="https://rabbilable.github.io/liveChat/" target="blank">ChatApp</a></h3>
+															<span>JavaScript,Firestore </span>
+															<div class="text">
+																<p>A chat app using javascript oop.</p>
+															</div>
+															<p class="icon">
+																<span><a href="https://github.com/rabbilable/liveChat" target="blank"><i
+																			class="icon-social-github"></i>Source</a></span>
+																<span><a href="https://rabbilable.github.io/liveChat/" target="blank"><i
+																			class="icon-link-outline"></i>Website</a></span>
+															</p>
+														</div>
+													</div>
+												</div>
 											</div>
 										</li>
-										<li class="development">
-											<div class="entry arlo_tm_portfolio_animation_wrap" data-title="Paper Mockup"
-												data-category="Development">
-												<a href="portfolio-single-3.html">
-													<img src="img/portfolio/600x600.jpg" alt="" />
-													<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/3.jpg"></div>
-												</a>
+										<li class="javascript">
+											<div class="animate-box" data-animate-effect="fadeInLeft">
+												<div class="project" style="background-image: url({{asset('jackson/images/img-4.jpg')}});">
+													<div class="desc">
+														<div class="con">
+															<h3><a href="https://rabbilable.github.io/simpleDigitalClock/" target="blank">DigitalClock</a></h3>
+															<span>JavaScript </span>
+															<div class="text">
+																<p>A simple digital clock using JavaScript Date object.</p>
+															</div>
+															<p class="icon">
+																<span><a href="https://github.com/rabbilable/simpleDigitalClock" target="blank"><i
+																			class="icon-social-github"></i>Source</a></span>
+																<span><a href="https://rabbilable.github.io/quizApp/" target="blank"><i
+																			class="icon-link-outline"></i>Website</a></span>
+															</p>
+														</div>
+													</div>
+												</div>
 											</div>
 										</li>
-										<li class="photography">
-											<div class="entry arlo_tm_portfolio_animation_wrap" data-title="The Nordic"
-												data-category="Photography">
-												<a href="portfolio-single-4.html">
-													<img src="img/portfolio/600x600.jpg" alt="" />
-													<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/4.jpg"></div>
-												</a>
+										<li class="javascript">
+											<div class="animate-box" data-animate-effect="fadeInLeft">
+												<div class="project" style="background-image: url({{asset('jackson/images/img-5.jpg')}});">
+													<div class="desc">
+														<div class="con">
+															<h3><a href="https://rabbilable.github.io/simpleDigitalClock/" target="blank">QuizApp</a></h3>
+															<span>JavaScript </span>
+															<div class="text">
+																<p>A simple 4 question quiz app using Vanilla JavaScript.</p>
+															</div>
+															<p class="icon">
+																<span><a href="https://github.com/rabbilable/quizApp" target="blank"><i
+																			class="icon-social-github"></i>Source</a></span>
+																<span><a href="https://rabbilable.github.io/quizApp/" target="blank"><i
+																			class="icon-link-outline"></i>Website</a></span>
+															</p>
+														</div>
+													</div>
+												</div>
 											</div>
 										</li>
-										<li class="design">
-											<div class="entry arlo_tm_portfolio_animation_wrap" data-title="Creatives Castle"
-												data-category="Design">
-												<a href="portfolio-single-5.html">
-													<img src="img/portfolio/600x600.jpg" alt="" />
-													<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/5.jpg"></div>
-												</a>
+										<li class="javascript">
+											<div class="animate-box" data-animate-effect="fadeInLeft">
+												<div class="project" style="background-image: url({{asset('jackson/images/img-6.jpg')}});">
+													<div class="desc">
+														<div class="con">
+															<h3><a href="https://rabbilable.github.io/simpleToDoList/" target="blank">SimpleToDoList</a></h3>
+															<span>JavaScript </span>
+															<div class="text">
+																<p>A simple ToDo list with vanilla JavaScript.</p>
+															</div>
+															<p class="icon">
+																<span><a href="https://github.com/rabbilable/simpleToDoList" target="blank"><i
+																			class="icon-social-github"></i>Source</a></span>
+																<span><a href="https://rabbilable.github.io/simpleToDoList/" target="blank"><i
+																			class="icon-link-outline"></i>Website</a></span>
+															</p>
+														</div>
+													</div>
+												</div>
 											</div>
 										</li>
-										<li class="photography">
-											<div class="entry arlo_tm_portfolio_animation_wrap" data-title="White Bag"
-												data-category="Photography">
-												<a href="portfolio-single-6.html">
-													<img src="img/portfolio/600x600.jpg" alt="" />
-													<div class="arlo_tm_portfolio_image_main" data-img-url="img/portfolio/6.jpg"></div>
-												</a>
+										<li class="javascript">
+											<div class="animate-box" data-animate-effect="fadeInLeft">
+												<div class="project" style="background-image: url({{asset('jackson/images/img-7.jpg')}});">
+													<div class="desc">
+														<div class="con">
+															<h3><a href="https://rabbilable.github.io/weatherApp/" target="blank">WeatherApp</a></h3>
+															<span>JavaScript, Accuweather API </span>
+															<div class="text">
+																<p>A simple weather app using AccuWeather Api and vanilla JavaScript.</p>
+															</div>
+															<p class="icon">
+																<span><a href="https://github.com/rabbilable/weatherApp" target="blank"><i
+																			class="icon-social-github"></i>Source</a></span>
+																<span><a href="https://rabbilable.github.io/weatherApp/" target="blank"><i
+																			class="icon-link-outline"></i>Website</a></span>
+															</p>
+														</div>
+													</div>
+												</div>
 											</div>
-										</li> --}}
+										</li>
+										<li class="vue">
+											<div class="animate-box" data-animate-effect="fadeInLeft">
+												<div class="project" style="background-image: url({{asset('jackson/images/img-8.jpg')}});">
+													<div class="desc">
+														<div class="con">
+															<h3><a href="https://github.com/rabbilable/larticle-app" target="blank">Vurud</a></h3>
+															<span>Laravel, Vue </span>
+															<div class="text">
+																<p>Full-stack CRUD app using vue and laravel. .</p>
+															</div>
+															<p class="icon">
+																<span><a href="https://github.com/rabbilable/larticle-app" target="blank"><i
+																			class="icon-social-github"></i>Source</a></span>
+																<span><a href="https://rabbilable.github.io/weatherApp/" target="blank"><i
+																			class="icon-link-outline"></i>Website</a></span>
+															</p>
+														</div>
+													</div>
+												</div>
+											</div>
+										</li>
+										<li class="laravel">
+											<div class="animate-box" data-animate-effect="fadeInLeft">
+												<div class="project" style="background-image: url({{asset('jackson/images/img-9.jpg')}});">
+													<div class="desc">
+														<div class="con">
+															<h3><a href="https://github.com/rabbilable/role_management_software" target="blank">Role Management Software</a></h3>
+															<span>Laravel, Spatie/permission </span>
+															<div class="text">
+																<p>Software to manage roles using Laravel Spatie package. .</p>
+															</div>
+															<p class="icon">
+																<span><a href="https://github.com/rabbilable/role_management_software" target="blank"><i
+																			class="icon-social-github"></i>Source</a></span>
+																<span><a href="https://github.com/rabbilable/role_management_software" target="blank"><i
+																			class="icon-link-outline"></i>Website</a></span>
+															</p>
+														</div>
+													</div>
+												</div>
+											</div>
+										</li>
+
 									</ul>
 								</div>
 							</div>
@@ -696,11 +831,10 @@
 															<i class="xcon-quote-left"></i>
 														</div>
 														<div class="definitions_wrap">
-															<p>“Arlo team are easy to work with and helped me make amazing websites in a short
-																amount of time. Thanks guys for works.”</p>
+															<p>“when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.”</p>
 														</div>
 														<div class="name_holder">
-															<p>Antonio Baraley, CEO Founder</p>
+															<p>Why The Lucky Stiff</p>
 														</div>
 													</div>
 												</li>
@@ -710,11 +844,10 @@
 															<i class="xcon-quote-left"></i>
 														</div>
 														<div class="definitions_wrap">
-															<p>“We were looking for a logo with a touch of modernism. Arlo grasped our needs and
-																produced a stunning design.”</p>
+															<p>“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live”</p>
 														</div>
 														<div class="name_holder">
-															<p>Calena Gomez, AOC Designer</p>
+															<p>John Woods</p>
 														</div>
 													</div>
 												</li>
@@ -724,11 +857,10 @@
 															<i class="xcon-quote-left"></i>
 														</div>
 														<div class="definitions_wrap">
-															<p>“Awesome to work with Arlo. Good organized, easy to communicate with, responsive
-																with next iterations.”</p>
+															<p>“Programs must be written for people to read, and only incidentally for machines to execute.”</p>
 														</div>
 														<div class="name_holder">
-															<p>Torren Winston, Photographer.</p>
+															<p>Harold Abelson, Structure and Interpretation of Computer Programs</p>
 														</div>
 													</div>
 												</li>
@@ -749,30 +881,30 @@
 							<ul class="arlo_tm_counter_list arlo_tm_miniboxes">
 								<li>
 									<div class="inner arlo_tm_minibox">
-										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="2222"
-													data-speed="3000">0</span></span></h3>
-										<span>Projects Completed</span>
+										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="730"
+													data-speed="3000">0</span>+</span></h3>
+										<span>Sunrise</span>
 									</div>
 								</li>
 								<li>
 									<div class="inner arlo_tm_minibox">
 										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="333"
-													data-speed="3000">0</span>K</span></h3>
+													data-speed="3000">0</span>K+</span></h3>
 										<span>Lines of Code</span>
 									</div>
 								</li>
 								<li>
 									<div class="inner arlo_tm_minibox">
-										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="8888"
-													data-speed="3000">0</span></span></h3>
-										<span>Happy Clients</span>
+										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="500"
+													data-speed="3000">0</span>+</span></h3>
+										<span>Cups of Coffees</span>
 									</div>
 								</li>
 								<li>
 									<div class="inner arlo_tm_minibox">
-										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="777"
+										<h3><span><span class="arlo_tm_counter" data-from="0" data-to="730"
 													data-speed="3000">0</span>+</span></h3>
-										<span>My Awwwards</span>
+										<span>Days of Learning</span>
 									</div>
 								</li>
 							</ul>
@@ -800,45 +932,46 @@
 									<div class="short_info_wrap">
 										<ul>
 											<li>
-												<p><label>Address:</label><span>123 Qwerty Avenue NYC, USA</span></p>
+												<p><label>Address:</label><span>Dhanmondi 15, Dhaka</span></p>
 											</li>
 											<li>
-												<p><label>Email:</label><span><a href="mailto:example@gmail.com">example@gmail.com</a></span>
+												<p><label>Email:</label><span><a href="mailto:rabbilyasar@gmail.com">rabbilyasar@gmail.com</a></span>
 												</p>
 											</li>
 											<li>
-												<p><label>Phone:</label><span>+77 022 177 05 05</span></p>
+												<p><label>Phone:</label><span>+880 178 935 72 88</span></p>
 											</li>
-											<li>
+											{{-- <li>
 												<p><label>Website:</label><span><a href="mailto:example@gmail.com">www.yourdomain.com</a></span>
 												</p>
-											</li>
+											</li> --}}
 										</ul>
 									</div>
 								</div>
-								<div class="rightbox">
+								{{-- <div class="rightbox">
 									<div class="arlo_tm_contact_wrap">
 										<div class="main_input_wrap">
-											<form action="" method="post" class="contact_form" id="contact_form">
+											<form action="{{route('contact.send')}}" method="post" class="contact_form" id="contact_form">
+												@csrf
 												<div class="returnmessage"
 													data-success="Your message has been received, We will contact you soon."></div>
 												<div class="empty_notice"><span>Please Fill Required Fields</span></div>
 												<div class="wrap">
-													<input id="name" type="text" placeholder="Your Name">
+													<input id="name" type="text" placeholder="Your Name" name="name">
 												</div>
 												<div class="wrap">
-													<input id="email" type="text" placeholder="Your Email">
+													<input id="email" type="text" placeholder="Your Email" name="email">
 												</div>
 												<div class="wrap">
-													<textarea id="message" placeholder="Your Message"></textarea>
+													<textarea id="message" placeholder="Your Message" name="message"></textarea>
 												</div>
 												<div class="arlo_tm_button">
-													<a id="send_message" href="#"><span>Send Message</span></a>
+													<a  href="" id="send_message" onclick="document.getElementById('contact_form').submit();"><span>Send Message</span></a>
 												</div>
 											</form>
 										</div>
 									</div>
-								</div>
+								</div> --}}
 							</div>
 						</div>
 						<div class="arlo_tm_footer_wrap">

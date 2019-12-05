@@ -20,6 +20,7 @@
     <link rel="stylesheet" type="text/css" href="{{asset('assets/css/plugins.css')}}" />
 
     <link rel="stylesheet" type="text/css" href="{{asset('assets/css/style.css')}}" />
+    <link rel="icon" type="image/png" sizes="32x32" href="{{asset('assets/img/logo/favicon-32x32.png')}}">
     <!-- Animate.css -->
     {{-- <link rel="stylesheet" href="{{asset('jackson/css/animate.css')}}"> --}}
     <!-- Icomoon Icon Fonts-->
