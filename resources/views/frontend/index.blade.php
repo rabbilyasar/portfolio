@@ -197,6 +197,34 @@
 										<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
 											<div class="timeline-entry-inner">
 
+												<div class="timeline-icon color-2">
+													<i class="icon-pen2"></i>
+												</div>
+
+												<div class="timeline-label">
+													<h2><a href="#">Jr. Software Engineer</a> <span>Oct, 2019-Present</span></h2>
+													<h2>Nomad Tech bd</h2>
+													<h3>Key Responsibilities</h3>
+													<p>
+														<ul>
+
+															<li> Part of a team who is responsible for building a Highly efficient Compliance Management
+                                                                Software and a Quality Management Software for the garments industry. Which will regulate
+                                                                ISO 9001 standard.
+                                                            </li>
+															<li> Single handedly made a cheque writing printing software for Lovello. To my knowledge the
+                                                                only software which can print the whole cheque leaf with ease.
+                                                            </li>
+
+														</ul>
+													</p>
+												</div>
+											</div>
+                                        </article>
+
+										<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+											<div class="timeline-entry-inner">
+
 												<div class="timeline-icon color-1">
 													<i class="icon-pen2"></i>
 												</div>
@@ -232,7 +260,7 @@
 														</div>
 													</div>
 												</article>
-			
+
 												<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
 													<div class="timeline-entry-inner">
 														<div class="timeline-icon color-3">
@@ -246,7 +274,7 @@
 														</div>
 													</div>
 												</article>
-			
+
 												<article class="timeline-entry animate-box" data-animate-effect="fadeInTop">
 													<div class="timeline-entry-inner">
 														<div class="timeline-icon color-4">
@@ -260,7 +288,7 @@
 														</div>
 													</div>
 												</article>
-			
+
 												<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
 													<div class="timeline-entry-inner">
 														<div class="timeline-icon color-5">
@@ -425,8 +453,8 @@
 									<div class="arlo_tm_mini_title_holder">
 										<h4>Some About my Abilities</h4>
 									</div>
-									<p> <q>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</q> 
-									
+									<p> <q>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</q>
+
 										― Martin Fowler</p>
 								</div>
 								<div class="rightbox">
