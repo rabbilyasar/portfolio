@@ -708,6 +708,33 @@
                                         <li class="laravel">
                                             <div class="animate-box" data-animate-effect="fadeInLeft">
                                                 <div class="project"
+                                                    style="background-image: url({{asset('jackson/images/nqms.jpg')}});">
+                                                    <div class="desc">
+                                                        <div class="con">
+                                                            <h3><a href="http://nqms.kizaofficial.com"
+                                                                    target="blank">NQMS</a></h3>
+                                                            <span>Laravel, JavaScript, jQuery, chartJS and many more.
+                                                            </span>
+                                                            <div class="text">
+                                                                <p>A full-fledged software to take meet clients
+                                                                    compliance issues.</p>
+                                                            </div>
+                                                            <p class="icon">
+                                                                {{-- <span><a href="http://nqms.kizaofficial.com"
+                                                                                                                                                        target="blank"><i
+                                                                                                                                                            class="icon-social-github"></i>Source</a></span> --}}
+                                                                <span><a href="http://nqms.kizaofficial.com"
+                                                                        target="blank"><i
+                                                                            class="icon-link-outline"></i>Website</a></span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="laravel">
+                                            <div class="animate-box" data-animate-effect="fadeInLeft">
+                                                <div class="project"
                                                     style="background-image: url({{asset('jackson/images/creative_inventory.png')}});">
                                                     <div class="desc">
                                                         <div class="con">
@@ -723,33 +750,6 @@
                                                                         target="blank"><i
                                                                             class="icon-social-github"></i>Source</a></span>
                                                                 <span><a href="http://inventory.buscoms.com/login"
-                                                                        target="blank"><i
-                                                                            class="icon-link-outline"></i>Website</a></span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="laravel">
-                                            <div class="animate-box" data-animate-effect="fadeInLeft">
-                                                <div class="project"
-                                                    style="background-image: url({{asset('jackson/images/nqms.jpg')}});">
-                                                    <div class="desc">
-                                                        <div class="con">
-                                                            <h3><a href="http://nqms.kizaofficial.com"
-                                                                    target="blank">NQMS</a></h3>
-                                                            <span>Laravel, JavaScript, jQuery, chartJS and many more.
-                                                            </span>
-                                                            <div class="text">
-                                                                <p>A full-fledged software to take meet clients
-                                                                    compliance issues.</p>
-                                                            </div>
-                                                            <p class="icon">
-                                                                {{-- <span><a href="http://nqms.kizaofficial.com"
-                                                                        target="blank"><i
-                                                                            class="icon-social-github"></i>Source</a></span> --}}
-                                                                <span><a href="http://nqms.kizaofficial.com"
                                                                         target="blank"><i
                                                                             class="icon-link-outline"></i>Website</a></span>
                                                             </p>
@@ -786,6 +786,32 @@
                                                 </div>
                                             </div>
                                         </li>
+                                        <li class="vue">
+                                            <div class="animate-box" data-animate-effect="fadeInLeft">
+                                                <div class="project"
+                                                    style="background-image: url({{asset('jackson/images/movie_app.jpg')}});">
+                                                    <div class="desc">
+                                                        <div class="con">
+                                                            <h3><a href="https://moviethings.herokuapp.com/"
+                                                                    target="blank">MovieThings</a></h3>
+                                                            <span>Vue, Laravel, TMDB API, Axios, Vue-Router </span>
+                                                            <div class="text">
+                                                                <p>A dynamic Web Application for watching movie trailers
+                                                                    and to get movie information.</p>
+                                                            </div>
+                                                            <p class="icon">
+                                                                <span><a href="https://github.com/rabbilable/movie-stuffs"
+                                                                        target="blank"><i
+                                                                            class="icon-social-github"></i>Source</a></span>
+                                                                <span><a href="https://moviethings.herokuapp.com/"
+                                                                        target="blank"><i
+                                                                            class="icon-link-outline"></i>Website</a></span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
                                         <li class="django">
                                             <div class="animate-box" data-animate-effect="fadeInLeft">
                                                 <div class="project"
@@ -807,32 +833,6 @@
                                                                 {{-- <span><a href="http://dcrmango.herokuapp.com"
                                                                         target="blank"><i
                                                                             class="icon-link-outline"></i>Website</a></span> --}}
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="vue">
-                                            <div class="animate-box" data-animate-effect="fadeInLeft">
-                                                <div class="project"
-                                                    style="background-image: url({{asset('jackson/images/movie_app.jpg')}});">
-                                                    <div class="desc">
-                                                        <div class="con">
-                                                            <h3><a href="https://moviethings.herokuapp.com/"
-                                                                    target="blank">MovieThings</a></h3>
-                                                            <span>Vue, Laravel, TMDB API, Axios, Vue-Router </span>
-                                                            <div class="text">
-                                                                <p>A dynamic Web Application for watching movie trailers
-                                                                    and to get movie information.</p>
-                                                            </div>
-                                                            <p class="icon">
-                                                                <span><a href="https://github.com/rabbilable/movie-stuffs"
-                                                                        target="blank"><i
-                                                                            class="icon-social-github"></i>Source</a></span>
-                                                                <span><a href="https://moviethings.herokuapp.com/"
-                                                                        target="blank"><i
-                                                                            class="icon-link-outline"></i>Website</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
