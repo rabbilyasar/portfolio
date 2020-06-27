@@ -718,6 +718,117 @@
                                                 </div>
                                             </div>
                                         </li>
+                                        <li class="laravel">
+                                            <div class="animate-box" data-animate-effect="fadeInLeft">
+                                                <div class="project"
+                                                    style="background-image: url({{asset('jackson/images/nqms.jpg')}});">
+                                                    <div class="desc">
+                                                        <div class="con">
+                                                            <h3><a href="http://nqms.kizaofficial.com"
+                                                                    target="blank">NQMS</a></h3>
+                                                            <span>Laravel, JavaScript, jQuery, chartJS and many more.
+                                                            </span>
+                                                            <div class="text">
+                                                                <p>A full-fledged software to take meet clients
+                                                                    compliance issues.</p>
+                                                            </div>
+                                                            <p class="icon">
+                                                                {{-- <span><a href="http://nqms.kizaofficial.com"
+                                                                        target="blank"><i
+                                                                            class="icon-social-github"></i>Source</a></span> --}}
+                                                                <span><a href="http://nqms.kizaofficial.com"
+                                                                        target="blank"><i
+                                                                            class="icon-link-outline"></i>Website</a></span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="django">
+                                            <div class="animate-box" data-animate-effect="fadeInLeft">
+                                                <div class="project"
+                                                    style="background-image: url({{asset('jackson/images/django_crm.png')}});">
+                                                    <div class="desc">
+                                                        <div class="con">
+                                                            <h3><a href="http://dcrmango.herokuapp.com"
+                                                                    target="blank">Django
+                                                                    CRM</a>
+                                                            </h3>
+                                                            <span>Django, Python.
+                                                            </span>
+                                                            <div class="text">
+                                                                <p>A simplified CRM made with django.</p>
+                                                            </div>
+                                                            <p class="icon">
+                                                                <span><a href="https://github.com/rabbilable/crm_django"
+                                                                        target="blank"><i
+                                                                            class="icon-social-github"></i>Source</a></span>
+                                                                <span><a href="http://dcrmango.herokuapp.com"
+                                                                        target="blank"><i
+                                                                            class="icon-link-outline"></i>Website</a></span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="django">
+                                            <div class="animate-box" data-animate-effect="fadeInLeft">
+                                                <div class="project"
+                                                    style="background-image: url({{asset('jackson/images/default.jpg')}});">
+                                                    <div class="desc">
+                                                        <div class="con">
+                                                            <h3><a href="https://github.com/rabbilable/poll_app_django"
+                                                                    target="blank">Django
+                                                                    Poll</a>
+                                                            </h3>
+                                                            <span>Django, Python.
+                                                            </span>
+                                                            <div class="text">
+                                                                <p>Poll app using django.</p>
+                                                            </div>
+                                                            <p class="icon">
+                                                                <span><a href="https://github.com/rabbilable/poll_app_django"
+                                                                        target="blank"><i
+                                                                            class="icon-social-github"></i>Source</a></span>
+                                                                {{-- <span><a href="http://dcrmango.herokuapp.com"
+                                                                        target="blank"><i
+                                                                            class="icon-link-outline"></i>Website</a></span> --}}
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="django">
+                                            <div class="animate-box" data-animate-effect="fadeInLeft">
+                                                <div class="project"
+                                                    style="background-image: url({{asset('jackson/images/django_crm.png')}});">
+                                                    <div class="desc">
+                                                        <div class="con">
+                                                            <h3><a href="http://dcrmango.herokuapp.com"
+                                                                    target="blank">Django
+                                                                    Poll</a>
+                                                            </h3>
+                                                            <span>Django, Python.
+                                                            </span>
+                                                            <div class="text">
+                                                                <p>Poll app using django.</p>
+                                                            </div>
+                                                            <p class="icon">
+                                                                <span><a href="https://github.com/rabbilable/poll_app_django"
+                                                                        target="blank"><i
+                                                                            class="icon-social-github"></i>Source</a></span>
+                                                                {{-- <span><a href="http://dcrmango.herokuapp.com"
+                                                                        target="blank"><i
+                                                                            class="icon-link-outline"></i>Website</a></span> --}}
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
                                         <li class="vue">
                                             <div class="animate-box" data-animate-effect="fadeInLeft">
                                                 <div class="project"
@@ -786,7 +897,7 @@
                                                                 <span><a href="https://github.com/rabbilable/simpleDigitalClock"
                                                                         target="blank"><i
                                                                             class="icon-social-github"></i>Source</a></span>
-                                                                <span><a href="https://rabbilable.github.io/quizApp/"
+                                                                <span><a href="https://rabbilable.github.io/simpleDigitalClock/"
                                                                         target="blank"><i
                                                                             class="icon-link-outline"></i>Website</a></span>
                                                             </p>
@@ -801,7 +912,7 @@
                                                     style="background-image: url({{asset('jackson/images/quiz_app.jpg')}});">
                                                     <div class="desc">
                                                         <div class="con">
-                                                            <h3><a href="https://rabbilable.github.io/simpleDigitalClock/"
+                                                            <h3><a href="https://rabbilable.github.io/quizApp/"
                                                                     target="blank">QuizApp</a></h3>
                                                             <span>JavaScript </span>
                                                             <div class="text">
@@ -849,7 +960,7 @@
                                         <li class="javascript">
                                             <div class="animate-box" data-animate-effect="fadeInLeft">
                                                 <div class="project"
-                                                    style="background-image: url({{asset('jackson/images/img-7.jpg')}});">
+                                                    style="background-image: url({{asset('jackson/images/weather_app.jpg')}});">
                                                     <div class="desc">
                                                         <div class="con">
                                                             <h3><a href="https://rabbilable.github.io/weatherApp/"
@@ -875,7 +986,7 @@
                                         <li class="vue">
                                             <div class="animate-box" data-animate-effect="fadeInLeft">
                                                 <div class="project"
-                                                    style="background-image: url({{asset('jackson/images/img-8.jpg')}});">
+                                                    style="background-image: url({{asset('jackson/images/larticle_app.jpg')}});">
                                                     <div class="desc">
                                                         <div class="con">
                                                             <h3><a href="https://github.com/rabbilable/larticle-app"
@@ -900,7 +1011,7 @@
                                         <li class="laravel">
                                             <div class="animate-box" data-animate-effect="fadeInLeft">
                                                 <div class="project"
-                                                    style="background-image: url({{asset('jackson/images/img-9.jpg')}});">
+                                                    style="background-image: url({{asset('jackson/images/role_management.jpg')}});">
                                                     <div class="desc">
                                                         <div class="con">
                                                             <h3><a href="https://github.com/rabbilable/role_management_software"
