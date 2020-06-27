@@ -514,8 +514,20 @@
                                                         </div>
                                                     </div>
                                             </div>
-                                            <div class="arlo_tm_progress" data-value="90" data-color="#000">
+                                            <div class="arlo_tm_progress" data-value="70" data-color="#000">
                                                 <span><span class="label">Django - <span class="experience">
+                                                            < 1 year of experience</span> </span> <span class="number">
+                                                                70%
+                                                        </span></span>
+                                                    <div class="arlo_tm_bar_bg">
+                                                        <div class="arlo_tm_bar_wrap">
+                                                            <div class="arlo_tm_bar"></div>
+                                                        </div>
+                                                    </div>
+                                            </div>
+                                            <div class="arlo_tm_progress" data-value="70" data-color="#000">
+                                                <span><span class="label">Django-rest-framework <span
+                                                            class="experience">
                                                             < 1 year of experience</span> </span> <span class="number">
                                                                 70%
                                                         </span></span>
@@ -686,6 +698,7 @@
                                     <ul class="arlo_tm_portfolio_filter">
                                         <li><a href="#" class="current" data-filter="*">All</a></li>
                                         <li><a href="#" data-filter=".django">Django</a></li>
+                                        <li><a href="#" data-filter=".django-rest">Django-rest</a></li>
                                         <li><a href="#" data-filter=".laravel">Laravel</a></li>
                                         <li><a href="#" data-filter=".python">Python</a></li>
                                         <li><a href="#" data-filter=".javascript">JavaScript</a></li>
@@ -776,12 +789,11 @@
                                         <li class="django">
                                             <div class="animate-box" data-animate-effect="fadeInLeft">
                                                 <div class="project"
-                                                    style="background-image: url({{asset('jackson/images/default.jpg')}});">
+                                                    style="background-image: url({{asset('jackson/images/employee_info_crud.png')}});">
                                                     <div class="desc">
                                                         <div class="con">
-                                                            <h3><a href="https://github.com/rabbilable/poll_app_django"
-                                                                    target="blank">Django
-                                                                    Poll</a>
+                                                            <h3><a href="https://github.com/rabbilable/employee-crud-dj"
+                                                                    target="blank">Employee info CRUD</a>
                                                             </h3>
                                                             <span>Django, Python.
                                                             </span>
@@ -789,35 +801,7 @@
                                                                 <p>Poll app using django.</p>
                                                             </div>
                                                             <p class="icon">
-                                                                <span><a href="https://github.com/rabbilable/poll_app_django"
-                                                                        target="blank"><i
-                                                                            class="icon-social-github"></i>Source</a></span>
-                                                                {{-- <span><a href="http://dcrmango.herokuapp.com"
-                                                                        target="blank"><i
-                                                                            class="icon-link-outline"></i>Website</a></span> --}}
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="django">
-                                            <div class="animate-box" data-animate-effect="fadeInLeft">
-                                                <div class="project"
-                                                    style="background-image: url({{asset('jackson/images/django_crm.png')}});">
-                                                    <div class="desc">
-                                                        <div class="con">
-                                                            <h3><a href="http://dcrmango.herokuapp.com"
-                                                                    target="blank">Django
-                                                                    Poll</a>
-                                                            </h3>
-                                                            <span>Django, Python.
-                                                            </span>
-                                                            <div class="text">
-                                                                <p>Poll app using django.</p>
-                                                            </div>
-                                                            <p class="icon">
-                                                                <span><a href="https://github.com/rabbilable/poll_app_django"
+                                                                <span><a href="https://github.com/rabbilable/employee-crud-dj"
                                                                         target="blank"><i
                                                                             class="icon-social-github"></i>Source</a></span>
                                                                 {{-- <span><a href="http://dcrmango.herokuapp.com"
@@ -1034,7 +1018,148 @@
                                                 </div>
                                             </div>
                                         </li>
-
+                                        <li class="django-rest">
+                                            <div class="animate-box" data-animate-effect="fadeInLeft">
+                                                <div class="project"
+                                                    style="background-image: url({{asset('jackson/images/default.jpg')}});">
+                                                    <div class="desc">
+                                                        <div class="con">
+                                                            <h3><a href="https://github.com/rabbilable/dj-todo-api"
+                                                                    target="blank">Django
+                                                                    Todo</a>
+                                                            </h3>
+                                                            <span>Django, Python.
+                                                            </span>
+                                                            <div class="text">
+                                                                <p>Django
+                                                                    Todo with REST API and React integrated</p>
+                                                            </div>
+                                                            <p class="icon">
+                                                                <span><a href="https://github.com/rabbilable/dj-todo-api"
+                                                                        target="blank"><i
+                                                                            class="icon-social-github"></i>Source</a></span>
+                                                                {{-- <span><a href="http://dcrmango.herokuapp.com"
+                                                                                                                target="blank"><i
+                                                                                                                    class="icon-link-outline"></i>Website</a></span> --}}
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="django">
+                                            <div class="animate-box" data-animate-effect="fadeInLeft">
+                                                <div class="project"
+                                                    style="background-image: url({{asset('jackson/images/default.jpg')}});">
+                                                    <div class="desc">
+                                                        <div class="con">
+                                                            <h3><a href="https://github.com/rabbilable/poll_app_django"
+                                                                    target="blank">Django
+                                                                    Poll</a>
+                                                            </h3>
+                                                            <span>Django, Python.
+                                                            </span>
+                                                            <div class="text">
+                                                                <p>Poll app using django.</p>
+                                                            </div>
+                                                            <p class="icon">
+                                                                <span><a href="https://github.com/rabbilable/poll_app_django"
+                                                                        target="blank"><i
+                                                                            class="icon-social-github"></i>Source</a></span>
+                                                                {{-- <span><a href="http://dcrmango.herokuapp.com"
+                                                                                                                target="blank"><i
+                                                                                                                    class="icon-link-outline"></i>Website</a></span> --}}
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="python">
+                                            <div class="animate-box" data-animate-effect="fadeInLeft">
+                                                <div class="project"
+                                                    style="background-image: url({{asset('jackson/images/default.jpg')}});">
+                                                    <div class="desc">
+                                                        <div class="con">
+                                                            <h3><a href="https://github.com/rabbilable/pymg_bookstore"
+                                                                    target="blank">Python bookstore</a>
+                                                            </h3>
+                                                            <span>Python, tkinter
+                                                            </span>
+                                                            <div class="text">
+                                                                <p>A native app with database to store books information
+                                                                </p>
+                                                            </div>
+                                                            <p class="icon">
+                                                                <span><a href="https://github.com/rabbilable/pymg_bookstore"
+                                                                        target="blank"><i
+                                                                            class="icon-social-github"></i>Source</a></span>
+                                                                {{-- <span><a href="http://dcrmango.herokuapp.com"
+                                                                                                                target="blank"><i
+                                                                                                                    class="icon-link-outline"></i>Website</a></span> --}}
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="python">
+                                            <div class="animate-box" data-animate-effect="fadeInLeft">
+                                                <div class="project"
+                                                    style="background-image: url({{asset('jackson/images/default.jpg')}});">
+                                                    <div class="desc">
+                                                        <div class="con">
+                                                            <h3><a href="https://github.com/rabbilable/pymg_webblocker"
+                                                                    target="blank">Python webblocker</a>
+                                                            </h3>
+                                                            <span>Python
+                                                            </span>
+                                                            <div class="text">
+                                                                <p>A simple CLI webblocker
+                                                                </p>
+                                                            </div>
+                                                            <p class="icon">
+                                                                <span><a href="https://github.com/rabbilable/pymg_webblocker"
+                                                                        target="blank"><i
+                                                                            class="icon-social-github"></i>Source</a></span>
+                                                                {{-- <span><a href="http://dcrmango.herokuapp.com"
+                                                                                                                target="blank"><i
+                                                                                                                    class="icon-link-outline"></i>Website</a></span> --}}
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="python">
+                                            <div class="animate-box" data-animate-effect="fadeInLeft">
+                                                <div class="project"
+                                                    style="background-image: url({{asset('jackson/images/default.jpg')}});">
+                                                    <div class="desc">
+                                                        <div class="con">
+                                                            <h3><a href="https://github.com/rabbilable/pymg_webmap"
+                                                                    target="blank">Python webmap</a>
+                                                            </h3>
+                                                            <span>Python,foliun
+                                                            </span>
+                                                            <div class="text">
+                                                                <p>A simple webmap to show volcanic locations of USA and
+                                                                    geographical based on population density
+                                                                </p>
+                                                            </div>
+                                                            <p class="icon">
+                                                                <span><a href="https://github.com/rabbilable/pymg_webmap"
+                                                                        target="blank"><i
+                                                                            class="icon-social-github"></i>Source</a></span>
+                                                                {{-- <span><a href="http://dcrmango.herokuapp.com"
+                                                                                                                target="blank"><i
+                                                                                                                    class="icon-link-outline"></i>Website</a></span> --}}
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -1122,7 +1247,7 @@
                                     <div class="inner arlo_tm_minibox">
                                         <h3><span><span class="arlo_tm_counter" data-from="0" data-to="730"
                                                     data-speed="3000">0</span>+</span></h3>
-                                        <span>Sunrise</span>
+                                        <span>Sunrises</span>
                                     </div>
                                 </li>
                                 <li>
