@@ -708,7 +708,7 @@
                                         <li class="laravel">
                                             <div class="animate-box" data-animate-effect="fadeInLeft">
                                                 <div class="project"
-                                                    style="background-image: url({{asset('jackson/images/creative_inventory.jpg')}});">
+                                                    style="background-image: url({{asset('jackson/images/creative_inventory.png')}});">
                                                     <div class="desc">
                                                         <div class="con">
                                                             <h3><a href="http://inventory.buscoms.com/login"
